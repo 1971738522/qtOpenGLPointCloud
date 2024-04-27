@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pointCloud/csv/test.csv</file>
+    </qresource>
+</RCC>

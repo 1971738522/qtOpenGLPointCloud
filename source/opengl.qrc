@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>opengl/shader/shader_axis.fs</file>
+        <file>opengl/shader/shader_axis.vs</file>
+        <file>opengl/shader/shader_mesh.fs</file>
+        <file>opengl/shader/shader_mesh.vs</file>
+        <file>opengl/shader/shader_point.fs</file>
+        <file>opengl/shader/shader_point.vs</file>
+    </qresource>
+</RCC>
